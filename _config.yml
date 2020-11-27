@@ -15,7 +15,7 @@ author: cshzh
 
 navbar-links:
   关于我: "aboutme"
-  GitHub主: "https://github.com/cshzh"
+  GitHub主页: "https://github.com/cshzh"
 
 # --- Logo --- #
 
@@ -38,7 +38,7 @@ round-avatar: true
 social-network-links:
 #  email: "someone@example.com"
 #  facebook: deanattali
-  github: "github.com/cshzh"
+  github: "cshzh"
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
